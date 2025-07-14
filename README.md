@@ -66,7 +66,7 @@ _Add screenshots of your dashboard here (optional)_
 
 ## 🧠 Author
 
-Jashanprit Singh — [LinkedIn](#) | [Email](#)
+Ashish Singh — [LinkedIn](#) | [Email](#)
 
 ---
 
