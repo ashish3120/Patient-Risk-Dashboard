@@ -10,7 +10,7 @@ This project classifies patients into Low, Medium, or High cardiovascular diseas
 |------|-------------|
 | `eda_model.py` | Python script for data preprocessing, EDA, and ML prediction |
 | `dashboard_health.pbix` | Power BI dashboard file for visual insights |
-| `patients_data.csv` | Dataset containing patient information (optional) |
+| `patients_data.csv` | Dataset containing patient information from Bangladesh|
 
 ---
 
