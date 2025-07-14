@@ -60,16 +60,4 @@ Navigation across pages is done using buttons and slicers for interactivity.
 
 ## 📷 Screenshots
 
-_Add screenshots of your dashboard here (optional)_
 
----
-
-## 🧠 Author
-
-Ashish Singh — [LinkedIn](#) | [Email](#)
-
----
-
-## 📌 License
-
-This project is open source and available under the MIT License.
