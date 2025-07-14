@@ -58,6 +58,4 @@ Navigation across pages is done using buttons and slicers for interactivity.
 
 ---
 
-## 📷 Screenshots
-
 
